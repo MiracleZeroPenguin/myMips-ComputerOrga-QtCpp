@@ -3,7 +3,7 @@
 
 
 ## 功能描述
----
+
 1. 输入MIPS汇编程序，返回对应16进制机器码
 2. 输入MIPS 16进制机器码，返回对应汇编程序
 3. 支持31条MIPS指令，包括
@@ -49,7 +49,6 @@
 
 ## 开发环境
 
----
 64位 Windows 10
 
 64位 MinGW 7.3.0
@@ -61,7 +60,7 @@
 
 
 ## 项目结构简介
----
+
 - newMips											     | 源文件
   - newMips.pro							          | Qt Creator 工程文件
     - *.ui										        | Qt界面
@@ -77,7 +76,6 @@
 
 ## 测试DEMO
 
----
 - 汇编
   - scpu_demo_2018.txt
   - scpu_demo_2018.asm
@@ -89,7 +87,6 @@
 
 ## 作者版权
 
----
 ​	Copyright(C) 2020-2021 Miracle_Zero
 
 ​	All rights reserved\n\nfilename:	newMips
